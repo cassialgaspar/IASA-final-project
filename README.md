@@ -25,7 +25,7 @@
 ---
 
 ### Acknowledgements
-- Thanking my friend Simão
+- Special thanks to my friend [Simão](https://github.com/s889a7?tab=overview&from=2026-06-01&to=2026-06-13)!
   
 
 ---
