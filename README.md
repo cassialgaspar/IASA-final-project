@@ -3,7 +3,7 @@
 </p>
 
 
-## Artificial Intelegence 
+## Artificial Intelligence for Autonomous Systems Project
 
 ### Summary
 > An academic project developed for the **Artificial Intelligence for Autonomous Systems (IASA)** subject at ISEL. The primary objective focuses on designing and deploying an intelligent autonomous agent capable of navigating static environments, circumventing physical obstacles, and harvesting scattered targets efficiently.
